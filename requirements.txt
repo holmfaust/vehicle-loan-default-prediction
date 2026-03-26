@@ -10,3 +10,6 @@ xgboost
 lightgbm
 joblib
 pyarrow
+category_encoders
+scipy
+statsmodels

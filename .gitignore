@@ -163,3 +163,6 @@ reports/figures/*
 .DS_Store
 data/*.csv
 data/*.xlsx
+
+# CatBoost
+catboost_info/
